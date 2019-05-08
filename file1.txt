@@ -1,4 +1,8 @@
 hello world
 helloooooo
 something (update "something")
+<<<<<<< HEAD
 mumbo jumbo
+=======
+Is this the third or the forth line? * ^ * ???
+>>>>>>> e71ab463a4709659e97f1e20a09224a5cc93420f
